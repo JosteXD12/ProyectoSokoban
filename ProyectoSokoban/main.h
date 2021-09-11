@@ -9,6 +9,8 @@ int main() {
 	RenderWindow ventana(VideoMode(800, 600, 64), "mi Ventana");
 	while (!gameover) {
 		ventana.display();
+		cout << "hello word";
+
 	}
 	return 0; 
 }
