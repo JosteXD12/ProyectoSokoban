@@ -10,7 +10,7 @@ int main() {
 	while (!gameover) {
 		ventana.display();
 		cout << "hello word";
-
+		//dghauiosdhpaiopsd
 	}
 	return 0; 
 }
